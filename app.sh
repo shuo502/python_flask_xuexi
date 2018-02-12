@@ -1,5 +1,5 @@
 #!/bin/bash
-
+pip install --upgrade pip
 exec uwsgi \
     --http-socket :8080 \
     --die-on-term \

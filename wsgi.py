@@ -13,7 +13,7 @@
 @file: wsgi.py.py
 @time: 2018/2/12 16:28
 """
-from app import app as application
+from appa import app as application
 
 if __name__ == "__main__":
     application.run()
