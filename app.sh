@@ -1,5 +1,4 @@
 #!/bin/bash
-
 exec uwsgi \
     --http-socket :8080 \
     --die-on-term \
