@@ -52,6 +52,8 @@ class Main():
 
 if __name__ == '__main__':
     #pip freeze >requirements.txt
+    #pip install -r requirements.txt
+
     pass
 
 
